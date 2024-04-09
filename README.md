@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshay Garg</h1>
 <h3 align="center">A passionate Web Developer developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshay-bit" alt="lakshay-bit" /></a> </p>
+
 
 - 🔭 I’m currently working on **Skin Talk**
 
