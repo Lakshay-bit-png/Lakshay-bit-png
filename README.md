@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Machine Learning, App Development**
 
+- 💬 Ask me about **react, java**
+
 - 📫 How to reach me **lakshaygargd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
