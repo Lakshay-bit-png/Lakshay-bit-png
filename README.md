@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building scalable backend systems, cloud infrastructure, and automation pipelines.<br>Full-stack web apps, DevOps workflows, and AWS-based architectures.<br>Exploring advanced Kubernetes deployments and optimizing CI/CD pipelines.<br>Security best practices in cloud environments & distributed systems.<br>Backend development, Docker, AWS, CI/CD, and system scalability.<br>I can deploy a full-stack app with a CI/CD pipeline faster than I can decide what to eat! 😆
+Building scalable backend systems..<br>Full-stack web apps, DevOps workflows, and AWS-based architectures.<br>Exploring advanced Kubernetes deployments and optimizing CI/CD pipelines.<br>Security best practices in cloud environments.<br>Backend development, Docker, AWS, CI/CD<br>I can deploy a full-stack app with a CI/CD pipeline faster than I can decide what to eat! 😆
 
 
 ## 🌐 Socials:
