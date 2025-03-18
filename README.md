@@ -1,6 +1,27 @@
-# 💫 About Me:
-I am building scalable backend systems..<br>Looking to Collab on : Full-stack web apps, DevOps workflows, and AWS-based architectures.<br>Help me with : Exploring advanced Kubernetes deployments and optimizing CI/CD pipelines.<br>Currently Learning: Security best practices in cloud environments.<br>Ask Me About : Backend development, Docker, AWS, CI/CD<br>Fun Fact : I can deploy a full-stack app with a CI/CD pipeline faster than I can decide what to eat! 😆
+# 💫 About Me  
 
+🚀 **I’m building scalable backend systems**  
+
+### 🔗 Looking to Collaborate On:  
+- Full-stack web apps  
+- DevOps workflows  
+- AWS-based architectures  
+
+### 🛠️ Help Me With:  
+- Advanced Kubernetes deployments  
+- Optimizing CI/CD pipelines  
+
+### 🌱 Currently Learning:  
+- Security best practices in cloud environments  
+
+### 💬 Ask Me About:  
+- Backend development  
+- Docker  
+- AWS  
+- CI/CD  
+
+### ⚡ Fun Fact:  
+I can deploy a full-stack app with a CI/CD pipeline faster than I can decide what to eat! 😆  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshaygarg._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay-garg-93995627a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshaygargd@gmail.com) 
